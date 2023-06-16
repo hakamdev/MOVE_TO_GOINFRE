@@ -13,3 +13,10 @@ curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/insta
 - **The above step is important, make sure you do it right.**
 - Finally, close all apps, and log out, and then log back in.
 - To avoid any problems at login, Uncheck the `"Reopen apps at login"` at the logout popup.
+
+### Uninstall
+``` sh
+curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/uninstall.sh | zsh
+```
+- And then open `Settings` **`>`** `Login Items` **`>`** select `Terminal` from the list press the `-` icon to remove it.
+
