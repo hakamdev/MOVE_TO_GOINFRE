@@ -29,4 +29,4 @@ cat > $HOME/Library/LaunchAgents/com.apple.Terminal.plist << EOF
 EOF
 
 echo "- Done! ✅"
-echo "- Now, go back to the github page and do the last steps."
+echo "- Now, log out and log back in."
