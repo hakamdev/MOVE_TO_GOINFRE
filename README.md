@@ -10,12 +10,6 @@ curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/insta
 - Finally, close all apps, and log out, and then log back in.
 - To avoid any problems at login, Uncheck the `"Reopen apps at login"` at the logout popup.
 
-### Manual Running (Close all apps before running)
-⚠️ If you run this command, you will need to rerun it every time you login to a new iMac, see the ***Automatic Running*** section above to avoid this inconvenience.
-``` sh
-curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/move_to_goingfre.sh | zsh
-```
-
 ### Uninstall (Close all apps before running)
 ``` sh
 curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/uninstall.sh | zsh
