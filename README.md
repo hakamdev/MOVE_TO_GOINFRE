@@ -20,5 +20,4 @@ curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/move_
 ``` sh
 curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/uninstall.sh | zsh
 ```
-- And then open `Settings` **`>`** `Login Items` **`>`** select `Terminal` from the list press the `-` icon to remove it.
 
