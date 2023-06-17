@@ -12,4 +12,4 @@ curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/insta
 ``` sh
 curl -fsSL https://raw.githubusercontent.com/hakamdev/MOVE_TO_GOINFRE/main/uninstall.sh | zsh
 ```
-
+Now, log out, and then log back in.
