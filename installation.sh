@@ -20,7 +20,7 @@ cat > $HOME/Library/LaunchAgents/com.apple.Terminal.plist << EOF
         <key>ProgramArguments</key>
 	<array>
 		<string>/usr/bin/open</string>
-		<string>/System/Applications/Utilities/Terminal.app</string>
+		<string>/Applications/Utilities/Terminal.app</string>
 	</array>
         <key>RunAtLoad</key>
         <true/>
